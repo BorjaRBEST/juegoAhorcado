@@ -1,5 +1,7 @@
-def tablero(intentos):
-    figura = [
+
+class Tablero:
+    def __init__(self):
+        self.figura = [
        '''
        -----   
        |   |  
@@ -57,4 +59,8 @@ def tablero(intentos):
        ========    
        ''',
     ]
-    print(figura[intentos])
+    def mostrar_tablero(self, intentos):
+        if 0 <= intentos < len(self.figura):
+            print(self.figura[intentos])
+        else:
+            print('Te has pasado de intentos compadre')
