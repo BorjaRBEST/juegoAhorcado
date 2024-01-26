@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74857f10-a273-4a71-8ee0-926d7a8a546e" name="Changes" comment="Se añade funciones como la de verificación de palabras">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tablero.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tablero.py" afterDir="false" />
-    </list>
+    <list default="true" id="74857f10-a273-4a71-8ee0-926d7a8a546e" name="Changes" comment="Último comentario Main" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706012432750</updated>
       <workItem from="1706012435437" duration="3477000" />
-      <workItem from="1706255439552" duration="2053000" />
+      <workItem from="1706255439552" duration="2444000" />
     </task>
     <task id="LOCAL-00001" summary="Se crean las primeras clases y el tablero de juego">
       <option name="closed" value="true" />
@@ -108,7 +104,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706015316677</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Se agregan comentarios al código y se arregla el que no devolviera la posición correcta">
+      <option name="closed" value="true" />
+      <created>1706259395273</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706259395273</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Último comentario Main">
+      <option name="closed" value="true" />
+      <created>1706259553846</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706259553846</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,9 +130,11 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Se crean las primeras clases y el tablero de juego" />
     <MESSAGE value="Se añade funciones como la de verificación de palabras" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se añade funciones como la de verificación de palabras" />
+    <MESSAGE value="Se agregan comentarios al código y se arregla el que no devolviera la posición correcta" />
+    <MESSAGE value="Último comentario Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Último comentario Main" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/juegoAhorcado$main.coverage" NAME="main Coverage Results" MODIFIED="1706258456433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/juegoAhorcado$main.coverage" NAME="main Coverage Results" MODIFIED="1706259472408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
